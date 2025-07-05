@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 📊 [chromoscores](https://github.com/hrahmani/chromoscores): Quantitative analysis tools for Hi-C maps.
 
 📫 Let's connect:
-[LinkedIn]([https://linkedin.com/in/YOURNAME](https://www.linkedin.com/in/hadi-rahmani-phd-724225211/) · [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ&hl=en&oi=ao) · [CV](#)
+[LinkedIn]([https://linkedin.com/in/hadi-rahmani](https://www.linkedin.com/in/hadi-rahmani-phd-724225211/) · [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ&hl=en&oi=ao) · [CV](#)
 
