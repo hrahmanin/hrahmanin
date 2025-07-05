@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - Chromatin modeling & genome folding
 - NGS data analysis (ChIP-seq, Hi-C)
 - Machine learning in biology
-- OpenMM, Python, Snakemake
 
 🛠 My projects:
 - 🔁 [dynamic_extrusion_boundaries](https://github.com/hrahmani/dynamic_extrusion_boundaries): Simulating dynamic chromatin loop extrusion
@@ -32,4 +31,3 @@ Here are some ideas to get you started:
 📫 Let's connect:
 [LinkedIn](https://linkedin.com/in/YOURNAME) · [Google Scholar](#) · [CV](#)
 
-![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrahmani&show_icons=true&theme=default)
