@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi, I'm Hadi Rahmani
+
+🔬 Computational Biologist | Biophysicist | Genomics Enthusiast  
+📍 Based in California | Open to industry and academic collaborations
+
+🧠 My interests:
+- Chromatin modeling & genome folding
+- NGS data analysis (ChIP-seq, Hi-C)
+- Machine learning in biology
+- OpenMM, Python, Snakemake
+
+🛠 My projects:
+- 🔁 [dynamic_extrusion_boundaries](https://github.com/hrahmani/dynamic_extrusion_boundaries): Simulating dynamic chromatin loop extrusion
+- 📊 [chromoscores](https://github.com/hrahmani/chromoscores): Quantitative analysis tools for simulated Hi-C maps
+
+📫 Let's connect:
+[LinkedIn](https://linkedin.com/in/YOURNAME) · [Google Scholar](#) · [CV](#)
+
+![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrahmani&show_icons=true&theme=default)
