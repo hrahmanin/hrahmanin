@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I'm Hadi Rahmani
 
-🔬 Computational Biologist | Biophysicist | Genomics Enthusiast  
+🔬 Computational Biologist | Biophysicist | Genomics  
 📍 Based in California | Open to industry and academic collaborations
 
 🧠 My interests:
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - 📊 [chromoscores](https://github.com/hrahmani/chromoscores): Quantitative analysis tools for simulated Hi-C maps
 
 📫 Let's connect:
-[LinkedIn](https://linkedin.com/in/YOURNAME) · [Google Scholar](#) · [CV](#)
+[LinkedIn](https://linkedin.com/in/YOURNAME) · [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ&hl=en&oi=ao) · [CV](#)
 
