@@ -1,4 +1,4 @@
-## Hi there 👋
+### I'm Hadi Rahmani
 
 <!--
 **hrahmanin/hrahmanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hi, I'm Hadi Rahmani
 
 🔬 Computational Biologist | Biophysicist | Genomics  
 📍 Based in California | Open to industry and academic collaborations
