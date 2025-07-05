@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 🛠 My projects:
 - 🧬 **Predicting 3D Genome Folding from Single-Molecule Footprinting** *(GitHub link coming soon)*  
   *Developed machine learning models to infer 3D chromatin architecture using single-molecule footprinting data (e.g., methylation footprints, occupancy patterns). Integrated sequence features and occupancy patterns to predict structural genome organization.*
-- 🔁 [dynamic_extrusion_boundaries](https://github.com/hrahmani/dynamic_extrusion_boundaries): Simulating dynamic chromatin loop extrusion
-- 📊 [chromoscores](https://github.com/hrahmani/chromoscores): Quantitative analysis tools for simulated Hi-C maps
+- 🔁 [dynamic_extrusion_boundaries](https://github.com/hrahmani/dynamic_extrusion_boundaries): Simulating DNA loop extrusion with dynamic barriers.
+- 📊 [chromoscores](https://github.com/hrahmani/chromoscores): Quantitative analysis tools for Hi-C maps.
 
 📫 Let's connect:
 [LinkedIn](https://linkedin.com/in/YOURNAME) · [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ&hl=en&oi=ao) · [CV](#)
