@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔬 Computational Biologist | Biophysicist | Genomics  
-📍 Based in California | Open to industry and academic collaborations
+📍 Based in Northern California | Open to industry and academic collaborations
 
 🧠 My interests:
 - Chromatin modeling & genome folding
