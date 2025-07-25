@@ -1,7 +1,7 @@
 ### Hadi Rahmani
 
 <!--
-**hrahmanin/hrahmanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hrahmanin/hrahmanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 🔬 Computational Biologist | Biophysicist | Genomics  
 
