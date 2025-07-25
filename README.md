@@ -1,6 +1,7 @@
 ### Hadi Rahmani
 
 <!--
+<!--
 **hrahmanin/hrahmanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,5 +31,5 @@ Here are some ideas to get you started:
 - 📊 [chromoscores](https://github.com/hrahmani/chromoscores): Quantitative analysis tools for Hi-C maps.
 
 📫 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/hadi-rahmani-phd-724225211/) · [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ&hl=en&oi=ao) · [CV](#)
+[LinkedIn](https://www.linkedin.com/in/hadi-rahmani-phd-724225211/) · [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ&hl=en&oi=ao) · [CV](#)-->
 
