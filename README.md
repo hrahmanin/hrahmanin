@@ -6,15 +6,16 @@
 🔬 Computational Biologist | Biophysicist | Genomics  
 
 🧠 My interests:
+- Chromatin modeling & genome folding
+- NGS data analysis (ChIP-seq, Hi-C)
+- Machine learning in biology
+  
 ## 🔬 Research Focus
 
 - **Machine Learning for Genomics:** Developed deep learning models (TensorFlow) to predict CTCF occupancy from single-molecule footprinting data (~80% accuracy).
 - **3D Genome Organization:** Modeled CTCF-cohesin dynamics and loop extrusion using polymer physics and Hi-C data.
 - **Molecular Simulations:** Simulated chromatin folding using OpenMM and Gromacs to quantify effects of dynamic barriers on genome folding.
 - **Multi-omics Pipelines:** Built scalable workflows (Nextflow, Singularity) for processing Hi-C, ATAC-seq, and ChIP-seq data.
-- Chromatin modeling & genome folding
-- NGS data analysis (ChIP-seq, Hi-C)
-- Machine learning in biology
 
 ## 🧰 Key Projects
 ### 🧠 Predicting 3D Genome Folding from Single-Molecule Footprinting *(GitHub link coming soon)*
