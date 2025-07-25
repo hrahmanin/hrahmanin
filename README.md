@@ -18,7 +18,7 @@
 - **Multi-omics Pipelines:** Built scalable workflows (Nextflow, Singularity) for processing Hi-C, ATAC-seq, and ChIP-seq data.
 
 ## 🧰 Key Projects
-### 🧠 Predicting 3D Genome Folding from Single-Molecule Footprinting *(GitHub link coming soon)*
+### 🧠 Predicting 3D Genome Folding from Single-Molecule Footprinting *(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF)
 Machine learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF/blob/main/figures/workflowfigure.png)
 
