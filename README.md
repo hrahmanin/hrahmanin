@@ -20,6 +20,7 @@
 ## 🧰 Key Projects
 ### 🧠 Predicting 3D Genome Folding from Single-Molecule Footprinting *(GitHub link coming soon)*
 Machine learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
+![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF/blob/main/figures/workflowfigure.png)
 
 ### 🧬 [dynamic_extrusion_boundaries](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries)
 Mechanistic model of CTCF/cohesin loop extrusion using dynamic barriers. Built in Python + OpenMM. Validated predictions with Hi-C and compartment scores.
