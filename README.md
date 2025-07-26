@@ -7,7 +7,7 @@
 
 🧠 My interests:
 - Chromatin modeling & genome folding
-- NGS data analysis (ChIP-seq, Hi-C)
+- NGS data analysis
 - Machine learning in biology
   
 ## 🔬 Research Focus
