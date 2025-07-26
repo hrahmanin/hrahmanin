@@ -24,9 +24,11 @@ Machine learning model to infer 3D chromatin structure using single-molecule dat
 
 ### 🧬 [dynamic_extrusion_boundaries](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries)
 Mechanistic model of CTCF/cohesin loop extrusion using dynamic barriers. Built in Python + OpenMM. Validated predictions with Hi-C and compartment scores.
+![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries/blob/main/output/cartoons/cropped_output_mult_seq_bar_combination_size.gif)
 
 ### 📊 ChromoScore
 Python package to quantify structural features (e.g., TADs, loops) from contact maps. Optimized for simulated Hi-C data. *(Repo: chromoscores)*
+![Workflow Cartoon](https://github.com/hrahmanin/chromoscores/blob/main/docs/representations.png)
 
 ### 🧪 fastaFRiP
 Reproducible pipeline for ChIP-seq analysis, including FRiP score computation using Bowtie2, samtools, and MACS2. Built for easy adoption and reproducibility.
