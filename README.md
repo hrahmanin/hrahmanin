@@ -5,7 +5,7 @@
 
 🔬 Computational Biologist | Biophysicist | Genomics   
 
-🧠 My interests:
+My interests:
 - Chromatin modeling & genome folding
 - NGS data analysis
 - Machine learning in biology
@@ -22,6 +22,9 @@
 Machine learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF/blob/main/figures/workflowfigure.png)
 
+### 🧪 fastaFRiP
+Reproducible pipeline for ChIP-seq analysis, including FRiP score computation using Bowtie2, samtools, and MACS2. Built for easy adoption and reproducibility.
+
 ### 🧬 [dynamic_extrusion_boundaries](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries)
 Mechanistic model of CTCF/cohesin loop extrusion using dynamic barriers. Built in Python + OpenMM. Validated predictions with Hi-C and compartment scores.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries/blob/main/output/cartoons/cropped_output_mult_seq_bar_combination_size.gif)
@@ -30,18 +33,15 @@ Mechanistic model of CTCF/cohesin loop extrusion using dynamic barriers. Built i
 Python package to quantify structural features (e.g., TADs, loops) from contact maps. Optimized for simulated Hi-C data. *(Repo: chromoscores)*
 ![Workflow Cartoon](https://github.com/hrahmanin/chromoscores/blob/main/docs/representations.png)
 
-### 🧪 fastaFRiP
-Reproducible pipeline for ChIP-seq analysis, including FRiP score computation using Bowtie2, samtools, and MACS2. Built for easy adoption and reproducibility.
-
 ### 🧷 looplib (Open2C contributor)
 Simulates 1D loop extrusion. Contributed to modeling functionality and maintenance of open-source codebase.
 
 ## 💻 Skills & Tools
-
+**Domains:** Genomics, Molecular Simulation, Deep Learning, Biophysics  
 **Languages:** Python, R, Bash  
 **Libraries:** TensorFlow, scikit-learn, Biopython, Bioconductor, OpenMM  
 **Tools:** Nextflow, Snakemake, Docker, Singularity, Linux, Git, GitHub  
-**Domains:** Genomics, Molecular Simulation, Deep Learning, Biophysics  
+
 
 ## 📚 Selected Publications
 
