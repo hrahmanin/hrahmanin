@@ -34,7 +34,7 @@ Python package to quantify structural features (e.g., TADs, loops) from contact 
 ![Workflow Cartoon](https://github.com/hrahmanin/chromoscores/blob/main/docs/representations.png)
 
 ### 🧷 looplib (Open2C contributor)
-Simulates 1D loop extrusion. Contributed to modeling functionality and maintenance of open-source codebase.
+Contributed to modeling functionality and maintenance of open-source codebase, particularly looplib, a package for 1D DNA loop extrusion.
 
 ## 💻 Skills & Tools
 **Domains:** Genomics, Molecular Simulation, Deep Learning, Biophysics  
