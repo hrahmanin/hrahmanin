@@ -55,10 +55,10 @@ Simulates 1D loop extrusion. Contributed to modeling functionality and maintenan
 
 ---
 
-## 🎨 Project Illustrations (Optional)
+<!-- ## 🎨 Project Illustrations (Optional)
 
 You can add cartoons/diagrams for each project by placing `.png`, `.svg`, or `.gif` files in your repo and referencing them like this:
 
 ```markdown
-![ChromoScore Diagram](images/chromoscore_diagram.png)
+![ChromoScore Diagram](images/chromoscore_diagram.png)-->
 
