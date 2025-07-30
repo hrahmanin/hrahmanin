@@ -12,9 +12,9 @@ My interests:
   
 ## 🔬 Research Focus
 
-- **Machine Learning for Genomics:** Developed deep learning models (TensorFlow) to predict CTCF occupancy from single-molecule footprinting data (~80% accuracy).
-- **3D Genome Organization:** Modeled CTCF-cohesin dynamics and loop extrusion using polymer physics and Hi-C data.
-- **Molecular Simulations:** Simulated chromatin folding using OpenMM and Gromacs to quantify effects of dynamic barriers on genome folding.
+- **Machine Learning for Genomics:** Developed deep learning models (TensorFlow) to predict CTCF protein occupancy from genomic/epigenomic datasets.
+- **3D Genome Organization:** Modeled DNA loop extrusion using polymer physics.
+- **Molecular Simulations:** Simulated chromatin folding using OpenMM and Gromacs to quantify effects of proteins on genome folding.
 - **Multi-omics Pipelines:** Built scalable workflows (Nextflow, Singularity) for processing Hi-C, ATAC-seq, and ChIP-seq data.
 
 ## 🧰 Key Projects
@@ -22,7 +22,7 @@ My interests:
 Machine learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF/blob/main/figures/workflowfigurenews.png)
 
-### 🧪 fastaFRiP
+### 🧪 [fastaFRiP ](https://github.com/Fudenberg-Research-Group/fastaFRiP)
 Reproducible pipeline for ChIP-seq analysis, including FRiP score computation using Bowtie2, samtools, and MACS2. Built for easy adoption and reproducibility.
 
 ### 🧬 [dynamic_extrusion_boundaries](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries)
