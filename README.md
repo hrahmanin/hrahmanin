@@ -6,7 +6,7 @@
 Computational Biologist | Biophysicist | Genomics   
 
 My interests:
-- Chromatin modeling and 3D genome folding
+- Chromatin modeling and 3D Genome folding
 - Analysis of next-generation sequencing (NGS) data
 - Applications of machine learning in biology
   
@@ -41,7 +41,7 @@ Contributed to modeling functionality and maintenance of open-source codebase, p
 **Modeling & Simulation:** Molecular dynamics (OpenMM, GROMACS, AMBER), Finite element modeling: FEniCS  
 **Machine Learning & Data Analysis:** ML models: clustering, regression, neural networks, CNNs, NLP, Libraries: PyTorch, scikit‑learn, XGBoost  
 **Programming & Scripting:** Python (NumPy, SciPy, Pandas),R, Bash / Shell scripting  
-**Workflow & Pipeline Development:** Workflow management(Nextflow, Snakemake), Containerization(Singularity), Cloud & HPC computing(AWS, USC HPC), Version control (Git, GitHub)
+**Workflow & Pipeline Development:** Workflow management(Nextflow, Snakemake), Version control (Git, GitHub), Cloud & HPC computing(AWS, USC HPC), Containerization(Singularity)
 
 
 
