@@ -6,9 +6,9 @@
 Computational Biologist | Biophysicist | Genomics   
 
 My interests:
-- Chromatin modeling & genome folding
-- NGS data analysis
-- Machine learning in biology
+- Chromatin modeling and 3D genome folding
+- Analysis of next-generation sequencing (NGS) data
+- Applications of machine learning in biology
   
 ## 🔬 Research Focus
 
