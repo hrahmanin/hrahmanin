@@ -37,10 +37,12 @@ Python package to quantify structural features (e.g., TADs, loops) from contact 
 Contributed to modeling functionality and maintenance of open-source codebase, particularly looplib, a package for 1D DNA loop extrusion.
 
 ## 💻 Skills & Tools
-**Domains:** Genomics, Molecular Simulation, Deep Learning, Biophysics  
-**Languages:** Python, R, Bash  
-**Libraries:** TensorFlow, scikit-learn, Biopython, Bioconductor, OpenMM  
-**Tools:** Nextflow, Snakemake, Docker, Singularity, Linux, Git, GitHub  
+**Computational Biology & Bioinformatics:** NGS data analysis, Genomics & Multi‑Omics data (Hi‑C, ATAC‑seq, ChIP‑seq, RNA‑seq), Tools: Cooltools, Biopython, Bioconductor 
+**Modeling & Simulation:** Molecular dynamics (OpenMM, GROMACS, AMBER), Finite element modeling: FEniCS  
+**Machine Learning & Data Analysis:** ML models: clustering, regression, neural networks, CNNs, NLP, Libraries: PyTorch, scikit‑learn, XGBoost  
+**Programming & Scripting:** Python (NumPy, SciPy, Pandas),R, Bash / Shell scripting  
+**Workflow & Pipeline Development:** Workflow management(Nextflow, Snakemake), Containerization(Singularity), Cloud & HPC computing(AWS, USC HPC), Version control (Git, GitHub)
+
 
 
 ## 📚 Selected Publications [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ)
