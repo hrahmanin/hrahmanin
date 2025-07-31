@@ -43,11 +43,12 @@ Contributed to modeling functionality and maintenance of open-source codebase, p
 **Tools:** Nextflow, Snakemake, Docker, Singularity, Linux, Git, GitHub  
 
 
-## 📚 Selected Publications
+## 📚 Selected Publications [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ)
 
 - Rahmaninejad H, et al. *Dynamic Barriers Modulate Cohesin Positioning and Genome Folding at Fixed Occupancy*, Genome Research (2025)  
-- Rahmaninejad H, et al. *Stimuli-Responsive Polymer Brushes in Nanofluidic Channels*, ACS Appl. Mater. Interfaces (2023)  
-- [Google Scholar Profile](https://scholar.google.com/citations?user=UUYEU4UAAAAJ)
+- Rahmaninejad H, et al. *Stimuli-Responsive Polymer Brushes in Nanofluidic Channels*, ACS Appl. Mater. Interfaces (2023)
+- Rahmaninejad H, et al. *Crowding within synaptic junctions influences the degradation of nucleotides by CD39 and CD73 ectonucleotidases*, Biophysical Journal (2022) 
+- Rahmaninejad H, et al. *Co-localization and confinement of ecto-nucleotidases modulate extracellular adenosine nucleotide distributions*, PLoS computational biology (2020)
 
 ## 📈 GitHub Stats
 
