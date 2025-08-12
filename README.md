@@ -3,7 +3,7 @@
 <!--
 **hrahmanin/hrahmanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Computational Biologist | Biophysicist | Genomics   
+Computational Biologist | Biophysicist | Genomics | Soft Matter  
 
 My interests:
 - Chromatin modeling and 3D Genome folding
