@@ -12,9 +12,9 @@ My interests:
   
 ## 🔬 Research Focus
 
-- **Machine Learning for Genomics:** Developing deep learning models (TensorFlow) to predict Genome architecture from genomic & epigenomic data
+- **Machine Learning for Genomics:** Developing deep learning models to predict Genome architecture from genomic & epigenomic data
 - **3D Genome Organization:** Modeling DNA loop extrusion using polymer physics
-- **Molecular Simulations:** Simulating chromatin dynamics in OpenMM & GROMACS to quantify protein impacts on genome structure
+- **Molecular Simulations:** Simulating chromatin dynamics in OpenMM to quantify accessory protein impacts on genome structure
 - **Multi-omics Pipelines:** Building scalable workflows (Nextflow, Singularity) for Hi‑C, ATAC‑seq & ChIP‑seq data processing
 
 ## 🧰 Key Projects
