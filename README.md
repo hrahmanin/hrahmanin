@@ -6,7 +6,7 @@
 Computational Biology | Biophysic | Genomics | Soft Matter 
 
 
-My interests:
+####My interests:
 - Modeling 3D Genome folding and its regulatory role
 - Applications of machine learning models in biology
 - Developing bioinformatic pipeline for next-generation sequencing (NGS) data
