@@ -17,8 +17,8 @@ My interests:
 - **Molecular Simulations:** Simulating chromatin dynamics in OpenMM to quantify accessory protein impacts on genome structure
 - **Multi-omics Pipelines:** Building scalable workflows (Nextflow, Singularity) for Hi‑C, ATAC‑seq & ChIP‑seq data processing-->
 
-## Key Projects
-### Predicting 3D Genome Folding from Single-Molecule Footprinting <!--*(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF)--> [Sitewise occupancy prediction](https://github.com/hrahmanin/OccuFold)
+### Key Projects
+#### Predicting 3D Genome Folding from Single-Molecule Footprinting <!--*(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF)--> [Sitewise occupancy prediction](https://github.com/hrahmanin/OccuFold)
 Deep learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF/blob/main/figures/workflowfigurenews.png)
 
@@ -36,7 +36,7 @@ Python package to quantify structural features (e.g., TADs, loops) from contact 
 ### 🧷 looplib (Open2C contributor)
 Contributed to modeling functionality and maintenance of open-source codebase, particularly looplib, a package for 1D DNA loop extrusion.
 
-## 💻 Skills & Tools
+### 💻 Skills & Tools
 **Computational Biology & Bioinformatics:** NGS data analysis, Genomics & Multi‑Omics data (Hi‑C, ATAC‑seq, ChIP‑seq, RNA‑seq), Tools: Cooltools, Biopython, Bioconductor 
 **Modeling & Simulation:** Molecular dynamics (OpenMM, GROMACS, AMBER), Finite element modeling: FEniCS  
 **Machine Learning & Data Analysis:** ML models: clustering, regression, neural networks, CNNs, NLP, Libraries: PyTorch, scikit‑learn, XGBoost  
@@ -45,14 +45,14 @@ Contributed to modeling functionality and maintenance of open-source codebase, p
 
 
 
-## 📚 Selected Publications [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ)
+### 📚 Selected Publications [Google Scholar](https://scholar.google.com/citations?user=UUYEU4UAAAAJ)
 
 - Rahmaninejad H, et al. *Dynamic Barriers Modulate Cohesin Positioning and Genome Folding at Fixed Occupancy*, Genome Research (2025)  
 - Rahmaninejad H, et al. *Stimuli-Responsive Polymer Brushes in Nanofluidic Channels*, ACS Appl. Mater. Interfaces (2023)
 - Rahmaninejad H, et al. *Crowding within synaptic junctions influences the degradation of nucleotides by CD39 and CD73 ectonucleotidases*, Biophysical Journal (2022) 
 - Rahmaninejad H, et al. *Co-localization and confinement of ecto-nucleotidases modulate extracellular adenosine nucleotide distributions*, PLoS computational biology (2020)
 
-## 📈 GitHub Stats
+#### 📈 GitHub Stats
 
 ![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrahmanin&show_icons=true&count_private=true&hide=issues)
 
