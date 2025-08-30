@@ -1,24 +1,24 @@
 ### Hadi Rahmaninejad
----
+
 <!--
 **hrahmanin/hrahmanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Computational Biology | Biophysic | Genomics | Soft Matter 
 
----
+
 My interests:
 - Modeling 3D Genome folding and its regulatory role
 - Applications of machine learning models in biology
 - Developing bioinformatic pipeline for next-generation sequencing (NGS) data
   
----  
+ 
 <!--## 🔬 Research Focus
 
 - **Machine Learning for Genomics:** Developing deep learning models to predict Genome architecture from genomic & epigenomic data
 - **3D Genome Organization:** Modeling DNA loop extrusion using polymer physics
 - **Molecular Simulations:** Simulating chromatin dynamics in OpenMM to quantify accessory protein impacts on genome structure
 - **Multi-omics Pipelines:** Building scalable workflows (Nextflow, Singularity) for Hi‑C, ATAC‑seq & ChIP‑seq data processing-->
----
+
 ### Key Projects
 #### Predicting 3D Genome Folding from Single-Molecule Footprinting <!--*(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF)--> [Sitewise occupancy prediction](https://github.com/hrahmanin/OccuFold)
 Deep learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
