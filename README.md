@@ -7,7 +7,7 @@ Computational Biology | Biophysic | Genomics | Soft Matter
 
 
 
-#### My interests:
+### My interests:
 - Modeling 3D Genome folding and its regulatory role
 - Applications of machine learning models in biology
 - Developing bioinformatic pipeline for next-generation sequencing (NGS) data
@@ -21,7 +21,7 @@ Computational Biology | Biophysic | Genomics | Soft Matter
 - **Multi-omics Pipelines:** Building scalable workflows (Nextflow, Singularity) for Hi‑C, ATAC‑seq & ChIP‑seq data processing-->
 
 ### Key Projects
-#### Predicting 3D Genome Folding from Single-Molecule Footprinting <!--*(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF)--> [Sitewise occupancy prediction](https://github.com/hrahmanin/OccuFold)
+#### Developing 'OccuFold', a nextflow pipeline for Predicting 3D Genome Folding from Single-Molecule Footprinting <!--*(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF)--> [Sitewise occupancy prediction](https://github.com/hrahmanin/OccuFold)
 Deep learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF/blob/main/figures/workflowfigurenews.png)
 
