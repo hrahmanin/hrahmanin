@@ -32,7 +32,7 @@ Reproducible pipeline for ChIP-seq analysis, including FRiP score computation us
 Mechanistic model of CTCF/cohesin loop extrusion using dynamic barriers. Built in Python + OpenMM. Validated predictions with Hi-C and compartment scores.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries/blob/main/output/cartoons/cropped_output_mult_seq_bar_combination_size.gif)
 
-### Developing [EnformerBindPredict](https://github.com/hrahmanin/ChipFold), reproducible Nextflow (DSL2) pipeline for predicting CTCF occupancy from multi-omic data using a hybrid CNN–Enformer model.
+### Developing [EnformerBindPredict](https://github.com/hrahmanin/ChipFold), reproducible Nextflow pipeline for predicting CTCF occupancy from multi-omic data using a hybrid CNN–Enformer model.
 ![Workflow Cartoon](https://github.com/hrahmanin/ChipFold/blob/main/figures/Demo.png)
 
 ### [ChromoScore](https://github.com/hrahmanin/chromoscores)
