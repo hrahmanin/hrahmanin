@@ -21,7 +21,7 @@ Computational Biology | Biophysic | Genomics | Soft Matter
 - **Multi-omics Pipelines:** Building scalable workflows (Nextflow, Singularity) for Hi‑C, ATAC‑seq & ChIP‑seq data processing-->
 
 ### Key Projects
-#### Developing [OccuFold](https://github.com/hrahmanin/OccuFold), a Nextflow Pipeline for Predicting 3D Genome Folding from Single-Molecule Footprinting <!--*(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF) [Sitewise occupancy prediction](https://github.com/hrahmanin/OccuFold)-->
+### Developed [OccuFold](https://github.com/hrahmanin/OccuFold), a Nextflow Pipeline for Predicting 3D Genome Folding from Single-Molecule Footprinting <!--*(GitHub link coming soon)* [Sitewise occupancy prediction](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF) [Sitewise occupancy prediction](https://github.com/hrahmanin/OccuFold)-->
 Deep learning model to infer 3D chromatin structure using single-molecule data (e.g., methylation footprints). Integrated sequence and occupancy data to predict genome folding and validate with Hi-C.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/OccupancyInputCTCF/blob/main/figures/workflowfigurenews.png)
 
@@ -32,7 +32,8 @@ Reproducible pipeline for ChIP-seq analysis, including FRiP score computation us
 Mechanistic model of CTCF/cohesin loop extrusion using dynamic barriers. Built in Python + OpenMM. Validated predictions with Hi-C and compartment scores.
 ![Workflow Cartoon](https://github.com/Fudenberg-Research-Group/dynamic_extrusion_boundaries/blob/main/output/cartoons/cropped_output_mult_seq_bar_combination_size.gif)
 
-### Developing [EnformerBindPredict](https://github.com/hrahmanin/ChipFold), reproducible Nextflow pipeline for predicting CTCF occupancy from multi-omic data using a hybrid CNN–Enformer model.
+### Developing [EnformerBindPredict](https://github.com/hrahmanin/ChipFold), 
+reproducible Nextflow pipeline for predicting CTCF occupancy from multi-omic data using a hybrid CNN–Enformer model.
 ![Workflow Cartoon](https://github.com/hrahmanin/ChipFold/blob/main/figures/Demo.png)
 
 ### [ChromoScore](https://github.com/hrahmanin/chromoscores)
